@@ -1,5 +1,6 @@
 # PC-Order-Database-MongoDB
-A web application that records the sales of different PCs. 
+A web application that records the sales of different PCs. <br />
+PC-Order-Databse project using MongoDB along with Redis.
 
 # Instructions
 You will need to install the Flask web application framework. Detailed instructions can be found here - http://flask.pocoo.org/docs/0.12/installation/
